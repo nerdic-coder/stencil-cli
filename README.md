@@ -7,7 +7,7 @@ Stencil requires a recent LTS version of NodeJS and npm. Make sure you've instal
 
 You can install the Stencil CLI globally with command,
 ```bash
-npm i -g @tnc/stencil-cli
+npm i -g @nerdic-coder/stencil-cli
 ```
 
 Now the `stencil` command should be available in your command line tool.
