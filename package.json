@@ -1,0 +1,29 @@
+{
+  "name": "@tnc/stencil-cli",
+  "version": "1.0.0",
+  "description": "A command line interface for StencilJS",
+  "main": "bin/stencil-cli.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "stencil": "bin/stencil-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdic-coder/stencil-cli.git"
+  },
+  "keywords": [
+    "stencil",
+    "cli"
+  ],
+  "author": "Johan Axelsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerdic-coder/stencil-cli/issues"
+  },
+  "homepage": "https://github.com/nerdic-coder/stencil-cli#readme",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  }
+}
